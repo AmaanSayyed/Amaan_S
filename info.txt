@@ -1,0 +1,14 @@
+-----------------------------------Home Page------------------------
+1.nav bar on top
+2.brand name
+3.main content and side bar
+
+
+
+for making navbar fixed and to avoid content to overlap
+
+give body top margin accordingly
+position: fixed;
+    top: 0;
+    background-color: #e0e0e0;
+    z-index: 9999;
